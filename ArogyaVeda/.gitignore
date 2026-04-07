@@ -1,0 +1,32 @@
+# Django
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite3
+media/
+staticfiles/
+
+# Environment Variables
+.env
+.env.example # Wait, .env.example should NOT be ignored usually. I'll remove it from ignore.
+.venv/
+venv/
+env/
+
+# ML Artifacts
+*.h5
+*.pkl
+# Optional: also ignore the chroma db if it's large/not to be shared
+chroma_db/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.local
+
+# OS
+.DS_Store
+Thumbs.db

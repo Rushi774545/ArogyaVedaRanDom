@@ -1,0 +1,21 @@
+symptom_id,symptom_name,disease_name
+1,Chest Pain,Heart Disease
+2,Shortness of Breath,Heart Disease
+3,Palpitations,Heart Disease
+4,Dizziness,Heart Disease
+5,Frequent Urination,Diabetes
+6,Excessive Thirst,Diabetes
+7,Blurred Vision,Diabetes
+8,Fatigue,Diabetes
+9,Swelling in Legs,Kidney Disease
+10,Fatigue,Kidney Disease
+11,Nausea,Kidney Disease
+12,High Blood Pressure,Kidney Disease
+13,Abdominal Pain,Liver Disease
+14,Loss of Appetite,Liver Disease
+15,Fatigue,Liver Disease
+16,Yellowing of Skin (Jaundice),Liver Disease
+17,Diarrhea,Diarrhea
+18,Abdominal Cramps,Diarrhea
+19,Fever,Diarrhea
+20,Dehydration,Diarrhea

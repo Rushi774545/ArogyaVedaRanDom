@@ -1,0 +1,11 @@
+medicine_id,medicine_name,disease_name,dosage,frequency,duration_days,description
+1,Aspirin,Heart Disease,75 mg,Once daily,30,Blood thinner to prevent clots
+2,Atorvastatin,Heart Disease,10 mg,Once daily,60,Lowers cholesterol levels
+3,Metformin,Diabetes,500 mg,Twice daily,90,Controls blood sugar
+4,Insulin,Diabetes,10 units,Before meals,30,Regulates glucose levels
+5,Losartan,Kidney Disease,50 mg,Once daily,60,Protects kidney function
+6,Furosemide,Kidney Disease,40 mg,Once daily,15,Reduces fluid retention
+7,Silymarin,Liver Disease,140 mg,Twice daily,60,Supports liver health
+8,Ursodeoxycholic Acid,Liver Disease,300 mg,Twice daily,90,Improves liver function
+9,ORS,Diarrhea,1 sachet,After each loose stool,5,Prevents dehydration
+10,Loperamide,Diarrhea,2 mg,After loose motion,3,Reduces diarrhea frequency
